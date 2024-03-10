@@ -7,8 +7,6 @@
 
 - 👯 I’m looking to collaborate on **AI**
 
-- 👨‍💻 All of my projects are available at [https://bit.ly/0xsandeep](https://bit.ly/0xsandeep)
-
 - 💬 Ask me about **react, node, nestjs, Web3.0**
 
 - 📫 How to reach me **sandeepsj26899@gmail.com**
